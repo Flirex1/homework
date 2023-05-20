@@ -49,3 +49,5 @@
 3. Для реализации используйте машину на базе QEMU. Можно дублировать, сделанную ранее. 
 
 ![image](https://user-images.githubusercontent.com/73060384/118615008-f95e9680-b7c8-11eb-9610-fc1e73d8bd70.png)
+#### Ответ
+![image](https://github.com/Flirex1/homework/assets/133591860/800f6419-8d31-41af-98e1-4aa8ec33ac1d)
